@@ -1,0 +1,5 @@
+[package]
+name = "dining-philosophers-rs"
+version = "0.1.0"
+authors = ["varoon <pazhyanurv@gmail.com>"]
+edition = "2018"
